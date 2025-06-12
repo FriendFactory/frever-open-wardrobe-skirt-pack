@@ -1,6 +1,6 @@
 # Frever Avatar Wardrobe Asset Pack
 
-Frever is a mobile avatar and content creation platform designed for expressive storytelling through custom 3D characters. Users could create avatars, style outfits, generate short-form video content, and engage in social interactions including chat and user feeds. Videos created with Frever were shared externally and accumulated over **10+ billion views** across platforms.
+Frever is a mobile avatar and content creation platform designed for expressive storytelling through custom 3D characters. Users can create avatars, style outfits, generate short-form video content, and engage in social interactions including chat and user feeds. Videos created with Frever were shared externally and accumulated over **10+ billion views** across platforms.
 
 This open source release contains a curated collection of assets for the **Frever App’s avatar wardrobe system**, including customizable wardrobe elements and makeup features.
 
