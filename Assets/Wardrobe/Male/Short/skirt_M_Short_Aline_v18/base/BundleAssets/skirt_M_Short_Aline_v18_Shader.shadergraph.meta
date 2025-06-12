@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 804f186bd04dea94aa584cc54497f164
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: skirt_m_short_aline_v18_base
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
