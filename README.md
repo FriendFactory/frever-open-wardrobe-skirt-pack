@@ -66,7 +66,6 @@ The following Frever packages are used in this project. The full package names a
 | com.unity.nuget.newtonsoft-json     | 2.0.0              |
 | com.unity.cinemachine               | 2.4.0-preview.7    |
 | com.unity.render-pipelines.universal| 7.3.1              |
-| com.unity.timeline                  | 1.2.6              |
 
 
 ## License
